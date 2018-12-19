@@ -15,7 +15,7 @@
 
     "pluginsConfig": {
         "sitemap": {
-            "hostname": "http://www.youseniu.com"
+            "hostname": "https://www.youseniu.com"
         }
     }
 }
