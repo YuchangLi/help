@@ -1,7 +1,7 @@
 {
     "root": "./",
     "title": "帮助中心",
-    "logo": "./images/indexlogo.png",
+    "logo": "./assets/indexlogo.png",
 
     "gitbook": ">= 3.0.0",
 
